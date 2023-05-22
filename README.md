@@ -121,19 +121,23 @@ Here are a few screenshots from the Our Chat Bot application:
 
 **Description of the screenshot**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/TakeTalk/Virtusa_jatayu_2023/blob/main/Screenshots/4.jpeg?raw=true)
 
 **Description of the screenshot**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/TakeTalk/Virtusa_jatayu_2023/blob/main/Screenshots/1.jpeg?raw=true)
 
 **Description of the screenshot**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/TakeTalk/Virtusa_jatayu_2023/blob/main/Screenshots/2.jpeg?raw=true)
 
 **Description of the screenshot**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/TakeTalk/Virtusa_jatayu_2023/blob/main/Screenshots/3.jpeg?raw=true)
+
+**Description of the screenshot**
+
+![App Screenshot](https://github.com/TakeTalk/Virtusa_jatayu_2023/blob/main/Screenshots/5.jpeg?raw=true)
 
 
 
