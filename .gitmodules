@@ -1,0 +1,6 @@
+[submodule "virtusa-backend"]
+	path = virtusa-backend
+	url = https://github.com/TakeTalk/virtusa-backend
+[submodule "Proton-Plus"]
+	path = Proton-Plus
+	url = https://github.com/TakeTalk/Proton-Plus
