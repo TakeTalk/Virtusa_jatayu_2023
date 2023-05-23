@@ -55,14 +55,16 @@ To run the Medical Services Chat Bot project locally on VS Code, follow these st
  - Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/TakeTalk/Virtusa_jatayu_2023
 ```
 
 - Go to the project directory
-
+   For frontend 
 ```bash
-  cd my-project
+  cd Proton-Plus
 ```
+-Go to the backend 
+ cd virtusa-backend
 
 - Open VS Code and navigate to the project directory.
 
