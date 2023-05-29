@@ -2,6 +2,8 @@
 
 Welcome to the Medical Services Chat Bot! This chat bot provides a range of medical services to users, including hospital appointment booking, nearby hospital search, medicine recommendation, and more. The application is built using Flutter for the frontend and Python for the backend AI models.
 
+Visit Our App[https://bit.ly/proton-plus]
+
 [solution Documents]
 
 [https://docs.google.com/presentation/d/1zupRfBi-RHVgfY2U57C_PFwZVXJuIxkcID70j64Q9y4/edit#slide=id.g2484c6580a3_0_0]
